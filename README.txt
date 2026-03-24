@@ -4,7 +4,7 @@ Requires at least: 5.6
 Tested up to: 6.4
 Requires PHP: 7.4
 Stable tag: 1.0.0
-License: GPLv2 or later
+License: GPLv3 or later
 
 Εφαρμογή αποθέματος με shortcode και σελίδα στο admin. Ίδια λειτουργικότητα με το theme (κατηγορία, μάρκα, πολλαπλές φωτογραφίες, CSV, PDF, στατιστικά).
 
